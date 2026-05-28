@@ -135,39 +135,53 @@ https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg" group-title="Bangla",DBC News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#------------------- 🇮🇳 Indian (ভারতীয় চ্যানেল) -------------------
+#------------------- 🇮🇳 Indian (ভারতীয় চ্যানেল - বিকল্প লিংক) -------------------
 #EXTINF:-1 tvg-logo="" group-title="Indian",Sony Pal
 https://spt-sonypal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indian",Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian",Enterr10
 https://amg01448-samsungin-enterr10-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indian",Goldmines
-https://amg00984-lightningintern-goldmines-samsungin-xoh3g.amagi.tv/playlist/amg00984-lightningintern-goldmines-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian",B4U Movies
 https://amg01448-samsungin-b4umovies-samsungin-ad-pmsu.amagi.tv/playlist/amg01448-samsungin-b4umovies-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indian",B4U Kadak
-https://amg01448-samsungin-b4ukadak-samsungin-ad-qauj.amagi.tv/playlist/amg01448-samsungin-b4ukadak-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indian",Manoranjan Grand
-https://amg01448-samsungin-manoranjangrand-samsungin-ad-vyym.amagi.tv/playlist/amg01448-samsungin-manoranjangrand-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian",Manoranjan Movies
 https://amg01448-samsungin-manoranjanmovies-samsungin-ad-mbjp.amagi.tv/playlist/amg01448-samsungin-manoranjanmovies-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indian",Raj Digital
-https://amg01448-samsungin-rajdigital-samsungin-ad-bxcq.amagi.tv/playlist/amg01448-samsungin-rajdigital-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indian",Jai Hanuman
-https://amg01448-samsungin-jaihanuman-samsungin-ad-5ykl.amagi.tv/playlist/amg01448-samsungin-jaihanuman-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian",India Today
 https://amg01448-samsungin-indiatoday-samsungin-ad-jucj.amagi.tv/playlist/amg01448-samsungin-indiatoday-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indian",Zee News
-https://amg01448-samsungin-zeenews-samsungin-ad-pge.amagi.tv/playlist/amg01448-samsungin-zeenews-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian",Republic TV
 https://amg01448-samsungin-republictv-samsungin-ad-qcve.amagi.tv/playlist/amg01448-samsungin-republictv-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian",Bollywood Prime
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",DD National
+https://dr5dconfmyay2.cloudfront.net/out/v1/cfa05a67a12c468fa0b12aa4af7fee42/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",Zee Anmol Cinema
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",Goldmines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",Manoranjan Grand
+http://103.175.73.12:8080/live/19/19_0.m3u8
+
+#------------------- 🎵 Music (মিউজিক চ্যানেল - বিকল্প লিংক) -------------------
+#EXTINF:-1 tvg-logo="" group-title="Music",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/9f1a3d57-4134-4f4c-95ea-2cb142ac63f8/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Music India
+http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",B4U Music
+http://103.175.73.12:8080/live/156/156_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Show Box
+https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Zing Music
+http://103.175.73.12:8080/live/163/163_0.m3u8
 
 #------------------- 🏏 Sports (লাইভ ক্রিকেট, ফুটবল ও মারামারি) -------------------
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Live Sports 1
@@ -396,24 +410,6 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
-
-#------------------- 🎵 Music (মিউজিক চ্যানেল) -------------------
-#EXTINF:-1 tvg-logo="" group-title="Music",YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",B4U Music
-https://amg01448-samsungin-b4umusic-samsungin-ad-bhrwq.amagi.tv/playlist/amg01448-samsungin-b4umusic-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/9f1a3d57-4134-4f4c-95ea-2cb142ac63f8/0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",9X Jalwa
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Joo Music
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Music India
-http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Show Box
-https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Party Universe
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 
 #------------------- 🔴 Live (লাইভ স্পেশাল ইভেন্ট) -------------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="Live",Deshi TV HD
